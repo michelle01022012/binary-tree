@@ -23,3 +23,4 @@
 
 
 module.exports = breadthFirstSearch;
+console.log(tree.breadthFirstSearch())
